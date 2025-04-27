@@ -7,7 +7,7 @@
   DNS - have records -use it to map ip address to domainname
 
   Route 53 provide-
-    domain registration
-    hosted zones(record keeping)
+    domain registration, /n
+    hosted zones(record keeping), /n
     health check
   
